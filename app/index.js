@@ -3,7 +3,7 @@ import * as ReactDOMClient from 'react-dom/client';
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom';
 import './index.css';
 
-import { ThemeProvider } from './contexts/Theme';
+import { ThemeProvider } from './contexts/theme';
 
 import Nav from './components/Nav';
 import Loading from './components/Loading';

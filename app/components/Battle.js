@@ -7,7 +7,7 @@ import {
   FaTrophy,
   FaTimesCircle,
 } from 'react-icons/fa';
-import { ThemeConsumer } from '../contexts/Theme';
+import { ThemeConsumer } from '../contexts/theme';
 
 function Instructions() {
   return (

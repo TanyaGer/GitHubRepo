@@ -2,7 +2,7 @@ import * as React from 'react';
 import { FaRegBell } from 'react-icons/fa';
 import { NavLink } from 'react-router-dom';
 
-import { ThemeConsumer } from '../contexts/Theme';
+import { ThemeConsumer } from '../contexts/theme';
 
 const activeStyle = {
   color: 'rgb(187,46,31)',
